@@ -1,2 +1,3 @@
 # aadya-demo
-my first git repository
+This is my first git repository
+Author - Aadya
